@@ -1,0 +1,10 @@
+﻿  LongNumbers.cpp
+C:\Users\Дашка-кашка(-_-)\source\repos\LongNumbers\LongNumbers\LongNumbers.cpp(10,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Дашка-кашка(-_-)\source\repos\LongNumbers\LongNumbers\LongNumbers.cpp(16,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Дашка-кашка(-_-)\source\repos\LongNumbers\LongNumbers\LongNumbers.cpp(183,13): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\Дашка-кашка(-_-)\source\repos\LongNumbers\LongNumbers\LongNumbers.cpp(236,30): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Дашка-кашка(-_-)\source\repos\LongNumbers\LongNumbers\LongNumbers.cpp(245,34): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Дашка-кашка(-_-)\source\repos\LongNumbers\LongNumbers\LongNumbers.cpp(248,38): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Дашка-кашка(-_-)\source\repos\LongNumbers\LongNumbers\LongNumbers.cpp(251,39): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Дашка-кашка(-_-)\source\repos\LongNumbers\LongNumbers\LongNumbers.cpp(254,37): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  LongNumbers.vcxproj -> C:\Users\Дашка-кашка(-_-)\source\repos\LongNumbers\x64\Debug\LongNumbers.exe
